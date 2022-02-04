@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diego-Bittencourt
-- 👀 I’m interested in Data analysis and Programming.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Coding and Programming.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
