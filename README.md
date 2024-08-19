@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diego-Bittencourt)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @Diego-Bittencourt
 - 👀 I’m interested in Coding and Programming.
 - 🌱 I’m currently learning JavaScript.
